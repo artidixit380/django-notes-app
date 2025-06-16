@@ -1,6 +1,7 @@
-mynotes: frontend 
+mynotes: frontend (nodejs-javascript)
 notesapp: backend (Dajngo framework-python lang)
 nginx: its a server
+mysql: db
 
 3 conatiner we want to preapare
 nginx
