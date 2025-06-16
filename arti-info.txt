@@ -1,0 +1,3 @@
+mynotes: frontend
+notesapp: backend (Dajngo framework-python lang)
+nginx: its a server
